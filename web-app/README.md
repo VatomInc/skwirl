@@ -4,3 +4,7 @@ Demo Web App built on the following stack:
 - Typescript
 - Vite
 - Vatom Identity & Wallet SDKs
+
+
+---
+Return to top of [SKWIRL Repo](https://github.com/VatomInc/skwirl)
