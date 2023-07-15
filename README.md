@@ -2,7 +2,7 @@
 Demo repository for landing pages, Experience SDK and Login customization
 
 Here are some hosted demos:
-- [Acorn game landing page host](https://start.vatom.com/cpgdemo1/)
+- [Acorn game landing page](https://start.vatom.com/cpgdemo1/)
 
 Below are OSS links to source code and assets:
 - [SKWIRL Repo](https://github.com/VatomInc/skwirl)
